@@ -1,7 +1,7 @@
 {
   "name": "graffiti",
   "version": "0.0.0",
-  "description": "graffiti ========",
+  "description": "CSS testing framework",
   "main": "cssTest.js",
   "directories": {
     "doc": "doc"
